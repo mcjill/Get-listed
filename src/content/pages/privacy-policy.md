@@ -5,26 +5,37 @@ description: "this is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
+This Privacy Policy describes how GetListed ("we," "us," or "our") collects, uses, and discloses information,  including any personal information, through our website.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+### Information We Collect
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+Since our website does not require user login, we do not collect any personal information about you.  However, we may collect certain non-personal information automatically through your use of the Website. This may include:
 
-#### Gathering of Personal Information
+Log Data: Information your browser automatically sends when you visit our Website, such as your computer's IP address, browser type, operating system, the pages you visit, and the time of your visit.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Cookies: We may use cookies to store and track information about your visit to our Website. You can find more information about how we use cookies in our Cookie Policy (link to your Cookie Policy if you have one).
 
-#### Protection of Personal- Information
+### Use of Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+We may use the non-personal information we collect to:
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+Analyze how users interact with our Website.
+Improve the functionality and content of our Website.
+Personalize your experience on our Website.
+Generate aggregate data and statistics about the use of our Website.
 
-#### Privacy Policy Changes
+### Sharing of Information
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+We will not share your personal information with any third parties. We may share non-personal information with third-party service providers who help us operate and maintain our Website.  These service providers are obligated to maintain the confidentiality of the information we share.
+
+### Security
+
+We take reasonable steps to protect the information we collect from unauthorized access, disclosure, alteration, or destruction. However, no website is completely secure.
+
+### Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time. We will post any changes on our Website.  We encourage you to review this Privacy Policy periodically for any updates.
+
+### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at elliotbrenyasarfo@gmail.com.

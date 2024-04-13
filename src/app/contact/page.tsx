@@ -8,7 +8,6 @@ const Contact = async () => {
   const data: RegularPage = getListPage("contact/_index.md");
   const { frontmatter } = data;
   const { title, description, meta_title, image } = frontmatter;
-  const { contact_form_action } = config.params;
 
   return (
     <>
@@ -23,7 +22,7 @@ const Contact = async () => {
         <div className="container">
           <div className="row">
             <div className="mx-auto md:col-10 lg:col-6">
-              <form action={contact_form_action} method="POST">
+              <form action="https://formspree.io/f/xdoqpyyk" method="POST">
                 <div className="mb-6">
                   <label htmlFor="name" className="form-label">
                     Full Name <span className="text-red-500">*</span>

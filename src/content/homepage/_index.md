@@ -1,51 +1,53 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Next Project"
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
+  title: "Let us handle your Directory listings while you focus on sales"
+  content: "Get Listed on <b>1000+</b> High DA Directories Without the Hassle"
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/nextplate"
+    label: "Schedule a Call"
+    link: "/contact"
 
 # Features
 features:
-  - title: "What's Included in Nextplate"
+  - title: "What you Get"
     image: "/images/service-1.png"
-    content: "Nextplate is a comprehensive starter template that includes everything you need to get started with your Next project. What's Included in Nextplate"
+    content: "Don't let your innovative SaaS drown in the sea of sameness. Get discovered, get ahead, get customers by leveraging on our directories listings"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Next and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
+      - "Get Listed on 1000+ authoritative SaaS/Startup directories"
+      - "Accurate product listings with description"
+      - "Valuable backlinks from high DA domains to boost SEO"
+      - "Massive visibility boost in front of your ideal customers"
       - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
+      label: "Schedule a Call"
+      link: "/contact"
 
-  - title: "Discover the Key Features Of Next"
+  - title: "Our Approach"
     image: "/images/service-2.png"
-    content: "Next is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "At <strong>GetListed</strong>, we take a strategic and systematic approach to directory listings."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "We conduct comprehensive market research to identify relevant directories based on industry, competitors, and target demographics."
+      - "Our SEO experts create customized and optimized listings for each directory to accurately represent your SaaS product or service."
+      - "We manage the submission process and monitor progress, ensuring visibility and effectiveness of your listings."
+      - "Regular reviews and optimizations are performed to enhance search rankings, backlink profile, and overall online visibility."
+      - "Our client success team provides dedicated support, guiding you through the process and maximizing the value of our directory listing services."
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/nextplate"
+      label: "Schedule a Call"
+      link: "/contact"
 
-  - title: "The Top Reasons to Choose Next for Your Next Project"
+  - title: "Our Statistics"
     image: "/images/service-3.png"
-    content: "With Next, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "At <strong>GetListed,</strong> we pride ourselves on delivering tangible results for our clients. Here are some key statistics that demonstrate the impact of our directory listing services:"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Next a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "7,250+ directories our clients are listed on across various industries"
+      - "Average domain authority (DA) of 45+ for the directories we secure listings on"
+      - "27% increase in organic search traffic for clients within the first 6 months"
+      - "19% boost in lead generation from directory referrals on average"
+      - "$30,000 in additional revenue generated for our clients last year"
     button:
       enable: false
       label: ""
